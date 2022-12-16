@@ -7,3 +7,5 @@ c=a+b
 print('Addition is :',c)
 
 #Adding something to code
+
+#Checking git diff command
